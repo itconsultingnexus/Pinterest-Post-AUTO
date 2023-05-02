@@ -81,4 +81,4 @@
 
 <h2>Contact Us</h2>
 
-<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us @ <itConsultingnexus@gmail.com> .</p>
+<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us @ <a>itConsultingnexus@gmail.com</a> .</p>
