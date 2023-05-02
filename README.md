@@ -78,12 +78,7 @@
 
 <p>NEXUS  does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
 
-<h2>Changes to This Privacy Policy</h2>
-
-<p>We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.</p>
-
-<p>Our Privacy Policy was created with the help of the <a href="https://www.termsfeed.com/privacy-policy-generator/">Privacy Policy Generator</a>.</p>
 
 <h2>Contact Us</h2>
 
-<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.</p>
+<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us @ <itConsultingnexus@gmail.com> .</p>
